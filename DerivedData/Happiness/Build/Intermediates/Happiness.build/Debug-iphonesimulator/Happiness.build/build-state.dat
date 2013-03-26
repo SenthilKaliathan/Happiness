@@ -1,0 +1,356 @@
+THappiness
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist Happiness/Happiness-Info.plist
+cProcessPCH /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch.pth Happiness/Happiness-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/FaceView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness normal i386
+cGenerateDSYMFile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+cCopyStringsFile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings Happiness/en.lproj/InfoPlist.strings
+cCpResource Happiness/Default.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png
+cCpResource Happiness/Default@2x.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png
+cCpResource Happiness/Default-568h@2x.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png
+cCompileStoryboard /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/en.lproj/MainStoryboard.storyboard
+cTouch /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000504A97620000000000228FD0
+t1347065698
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000504A977000000000003DCEF0
+t1347065712
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000504A977000000000000015F7
+t1347065712
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000504A979B0000000000000E8D
+t1347065755
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000504A979E0000000000AB3D60
+t1347065758
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000504A983A0000000000001B54
+t1347065914
+s6996
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o
+t1362118603
+s77020
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/Happiness.LinkFileList
+c000000005130442C00000000000002DB
+t1362117676
+s731
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o
+t1362117688
+s86772
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o
+t1362118804
+s72396
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o
+t1362117688
+s3344
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch.pth
+t1362117687
+s4840720
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app
+t1362118804
+s306
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM
+t1362118804
+s102
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png
+t1362117690
+s18594
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png
+t1362117690
+s6540
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png
+t1362117690
+s16107
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+t1362118804
+s30056
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist
+t1362117676
+s844
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/PkgInfo
+t1362117676
+s8
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings
+t1362117690
+s42
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/MainStoryboard.storyboardc
+t1362117695
+s170
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/FaceView.h
+c00000000513046900000000000000123
+t1362118288
+s291
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/FaceView.m
+c00000000513046EC0000000000000E4D
+t1362118380
+s3661
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Happiness-Prefix.pch
+c000000005130421F0000000000000141
+t1362117151
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessAppDelegate.h
+c000000005130421F000000000000012E
+t1362117151
+s302
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessAppDelegate.m
+c000000005130421F00000000000007F9
+t1362117151
+s2041
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessViewController.h
+c000000005130427A0000000000000133
+t1362117242
+s307
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessViewController.m
+c000000005130487F00000000000003E3
+t1362118783
+s995
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/en.lproj/InfoPlist.strings
+c000000005130421F000000000000002D
+t1362117151
+s45
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/en.lproj/MainStoryboard.storyboard
+c000000005130442C00000000000008B4
+t1362117676
+s2228
+
+N/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/main.m
+c000000005130421F0000000000000169
+t1362117151
+s361
+
+NHappiness/Happiness-Info.plist
+c000000005130421F00000000000004D2
+t1362117151
+s1234
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/FaceView.m
+r0
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessAppDelegate.m
+r0
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessViewController.m
+r0
+
+CBuild AST from /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0211b63c80e0b641^3ca2b63c80e0b641^---0#1#0#--18"Check dependencies36"3EF36924-DB08-4792-A239-303DFBCC5633-
+
+CCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/FaceView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383811401.860322
+e383811403.446618
+r1
+xCompileC
+xDerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/FaceView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/FaceView.m315ddc497fe0b641^6d55724b7fe0b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/FaceView.m0000000000000000^4141"CompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o Happiness/FaceView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/FaceView.m -o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o36"5AF89123-B6F7-41EB-A540-26C6B9768504-
+
+CCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383810487.981443
+e383810488.977260
+r1
+xCompileC
+xDerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessAppDelegate.m0c76fbb77be0b641^1a36fab87be0b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessAppDelegate.m0000000000000000^4213"CompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o Happiness/HappinessAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessAppDelegate.m -o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o36"09CB68BF-B9AF-470C-989F-B7F55C0FDFE6-
+
+CCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383811604.437465
+e383811604.509542
+r1
+xCompileC
+xDerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessViewController.mb823701480e0b641^bd71821480e0b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessViewController.m0000000000000000^4231"CompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o Happiness/HappinessViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/HappinessViewController.m -o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o36"926B4DAD-5E0F-4D53-9792-FA3B358092CC-
+
+CCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383810487.981446
+e383810488.973609
+r1
+xCompileC
+xDerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/main.mf772fbb77be0b641^4358f9b87be0b641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/main.m0000000000000000^4117"CompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o Happiness/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -include /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/main.m -o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o36"41BB1599-D24D-4F49-BB87-E054A5DC1D98-
+
+CCompileStoryboard /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/en.lproj/MainStoryboard.storyboard
+s383810490.154845
+e383810495.338961
+r1
+xCompileStoryboard
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard Happiness/en.lproj/MainStoryboard.storyboardb6bb27ba7be0b641^bdc656bf7be0b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/en.lproj/MainStoryboard.storyboard0000000000000000^1014"CompileStoryboard Happiness/en.lproj/MainStoryboard.storyboard    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/MainStoryboard.storyboardc /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"0A83D46D-7A7C-433D-8A45-503953ECF472-
+
+CCopyStringsFile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings Happiness/en.lproj/InfoPlist.strings
+s383810490.102201
+e383810490.156964
+r1
+xCopyStringsFile
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings
+xHappiness/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Happiness/en.lproj/InfoPlist.strings174a1aba7be0b641^1f2f28ba7be0b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/en.lproj/InfoPlist.strings0000000000000000^667"CopyStringsFile DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings Happiness/en.lproj/InfoPlist.strings    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj -- Happiness/en.lproj/InfoPlist.strings36"9AB911DA-1400-4512-BD42-455D85EDCFAC-
+
+CCpResource Happiness/Default-568h@2x.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png
+s383810490.102365
+e383810490.156227
+r1
+xCpResource
+xHappiness/Default-568h@2x.png
+xDerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png444f1aba7be0b641^d2fe27ba7be0b641^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png000000000080d041^707"CpResource "Happiness/Default-568h@2x.png" "DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png"    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Default-568h@2x.png" /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app36"1FE21731-ABD1-430D-BBD0-6EEBB8427393-
+
+CCpResource Happiness/Default.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png
+s383810490.102191
+e383810490.153444
+r1
+xCpResource
+xHappiness/Default.png
+xDerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.pngcb4b1aba7be0b641^734b27ba7be0b641^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png000000000080d041^677"CpResource Happiness/Default.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Default.png /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app36"0FFEACC8-26A3-40B0-B962-39711B6BD51E-
+
+CCpResource Happiness/Default@2x.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png
+s383810490.102204
+e383810490.156496
+r1
+xCpResource
+xHappiness/Default@2x.png
+xDerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.pnge7501aba7be0b641^881328ba7be0b641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png000000000080d041^692"CpResource "Happiness/Default@2x.png" "DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png"    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Default@2x.png" /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app36"908DC4F5-5CE8-4B72-8F43-FE54B804699F-
+
+CGenerateDSYMFile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+s383811604.784977
+e383811604.863898
+r1
+xGenerateDSYMFile
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Generating /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYMbc06c91480e0b641^4529dd1480e0b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM000000000080d041^794"GenerateDSYMFile DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness -o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM36"3E1D8D60-820B-4071-ABE1-96D61D8F1A22-
+
+CLd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness normal i386
+s383811604.515950
+e383811604.777960
+r1
+xLd
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness9c31841480e0b641^1f2cc71480e0b641^---0#0#0#--1376"Ld DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness normal i386    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -F/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -filelist /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/Happiness.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness36"133D4C25-BFCD-46B8-AE26-CA8B6523ABA1-
+
+CProcessInfoPlistFile /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist Happiness/Happiness-Info.plist
+s383810476.875177
+e383810476.878939
+r1
+xProcessInfoPlistFile
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist
+xHappiness/Happiness-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process Happiness/Happiness-Info.plist971fe0ac7be0b641^2428eeac7be0b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Happiness-Info.plist0000000000000000^790"ProcessInfoPlistFile DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist Happiness/Happiness-Info.plist    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Happiness/Happiness-Info.plist -genpkginfo /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist36"7EDD9420-7E4C-49DD-8488-C70C9D098FB9-
+
+CProcessPCH /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch.pth Happiness/Happiness-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383810476.887171
+e383810487.974756
+r1
+xProcessPCH
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch.pth
+xHappiness/Happiness-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Happiness/Happiness-Prefix.pchd141e3ac7be0b641^6a89f9b77be0b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Happiness-Prefix.pch0000000000000000^3999"ProcessPCH DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch.pth Happiness/Happiness-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch.dia -c /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/Happiness/Happiness-Prefix.pch -o /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch.pth -MMD -MT dependencies -MF /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-dkwshjozxykwytcakuzmecnsfwkk/Happiness-Prefix.pch.d36"51650939-B695-4FA3-8016-517FBFCC72B3-
+
+CProcessPCH /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Index/PrecompiledHeaders/Happiness-Prefix-gqajtlohljiemdddnrncimqudqla_ast/Happiness-Prefix.pch.pth Happiness/Happiness-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app
+s383811604.880437
+e383811604.888250
+r1
+xTouch
+x/Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Touch /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app4b75e11480e0b641^9566e31480e0b641^---0#0#0#--476"Touch DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app    cd /Users/nesstechnologies/Demo_Mobile_Dev/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nesstechnologies/Demo_Mobile_Dev/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app36"8BE626C1-B1BD-49C3-BBAD-D620D38DBAE6-
+

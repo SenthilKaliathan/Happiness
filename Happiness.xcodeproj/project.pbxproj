@@ -18,6 +18,7 @@
 		4BB54E8316E0799F00DBEBD9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BB54E8216E0799F00DBEBD9 /* Default-568h@2x.png */; };
 		4BB54E8616E0799F00DBEBD9 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB54E8416E0799F00DBEBD9 /* MainStoryboard.storyboard */; };
 		4BB54E8916E0799F00DBEBD9 /* HappinessViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB54E8816E0799F00DBEBD9 /* HappinessViewController.m */; };
+		4BB54E9116E07A3F00DBEBD9 /* FaceView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB54E9016E07A3F00DBEBD9 /* FaceView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		4BB54E8516E0799F00DBEBD9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		4BB54E8716E0799F00DBEBD9 /* HappinessViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HappinessViewController.h; sourceTree = "<group>"; };
 		4BB54E8816E0799F00DBEBD9 /* HappinessViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HappinessViewController.m; sourceTree = "<group>"; };
+		4BB54E8F16E07A3F00DBEBD9 /* FaceView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FaceView.h; sourceTree = "<group>"; };
+		4BB54E9016E07A3F00DBEBD9 /* FaceView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FaceView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				4BB54E8416E0799F00DBEBD9 /* MainStoryboard.storyboard */,
 				4BB54E8716E0799F00DBEBD9 /* HappinessViewController.h */,
 				4BB54E8816E0799F00DBEBD9 /* HappinessViewController.m */,
+				4BB54E8F16E07A3F00DBEBD9 /* FaceView.h */,
+				4BB54E9016E07A3F00DBEBD9 /* FaceView.m */,
 				4BB54E7316E0799F00DBEBD9 /* Supporting Files */,
 			);
 			path = Happiness;
@@ -177,6 +182,7 @@
 				4BB54E7916E0799F00DBEBD9 /* main.m in Sources */,
 				4BB54E7D16E0799F00DBEBD9 /* HappinessAppDelegate.m in Sources */,
 				4BB54E8916E0799F00DBEBD9 /* HappinessViewController.m in Sources */,
+				4BB54E9116E07A3F00DBEBD9 /* FaceView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
